@@ -1,10 +1,9 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,40:312E81,75:7C3AED,100:22D3EE&height=230&section=header&text=PRIYANSHU%20SHARMA&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Crafting%20digital%20experiences%20with%20code%20and%20creativity&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=PRIYANSHU%20SHARMA&fontSize=52&fontColor=A78BFA&animation=twinkling&fontAlignY=38&desc=Android%20%E2%80%A2%20Web%20%E2%80%A2%20Real-Time%20Experiences&descSize=16&descColor=22D3EE&descAlignY=60" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Priyanshu+%F0%9F%91%8B;Android+Developer+%7C+Web+Developer;Kotlin+%E2%80%A2+JavaScript+%E2%80%A2+MySQL;Turning+ideas+into+real+products;Always+learning.+Always+building." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&random=false&width=800&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Priyanshu;%F0%9F%93%B1+Android+Developer;%F0%9F%8C%90+Web+Developer;%E2%9A%A1+Kotlin+%7C+JS+%7C+SQL;%F0%9F%8E%AC+Building+Movify+%26+Mixify+%26+Watchify" alt="Animated introduction" />
 </a>
 
 <br/>
@@ -15,18 +14,18 @@
 <br/><br/>
 
 <a href="https://portfolio.mixify.co.in/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/scisims12">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/priyanshu-sharma-a59293241">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
 ## ✦ About Me
 
@@ -53,23 +52,30 @@ const priyanshu = {
 
 > *I love transforming creative ideas into functional, meaningful and beautiful digital experiences.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
+
+## 🔭 Currently
+
+| | |
+|:--|:--|
+| 🔨 **Building** | Watchify – real-time watch parties |
+| 📖 **Learning** | Jetpack Compose & Kotlin Coroutines |
+| 💬 **Ask me about** | Android, Firebase, WebSockets |
+| ⚡ **Fun fact** | Mere projects mein music aur movies dono hain 🎵🎬 |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
 ## ⚡ My Tech Universe
 
 <div align="center">
 
-### Languages & Development
+<img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css,mysql,androidstudio,git,github,vscode,gradle,nodejs&theme=dark&perline=12" alt="Tech stack"/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css,mysql&theme=dark" alt="Languages"/>
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,gradle,nodejs&theme=dark" alt="Tools"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Kotlin%20%E2%80%A2%20JavaScript%20%E2%80%A2%20MySQL%20%E2%80%A2%20Android%20%E2%80%A2%20Node.js&fontSize=20&fontColor=22D3EE&animation=fadeIn" width="100%" alt="Stack text"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
 ## ◈ Featured Creations
 
@@ -102,7 +108,15 @@ const priyanshu = {
 | 🍿 **Watchify** | Real-time watch parties with synchronised playback and live chat |
 | 🌐 **Portfolio** | My personal developer portfolio |
 
----
+<!--
+OPTIONAL: Spotify "Now Playing" card (Mixify ke liye). YOUR_SPOTIFY_ID apni ID se replace karo, phir comment hata do.
+
+<div align="center">
+<img src="https://spotify-github-profile.kittinunf.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false" alt="Spotify"/>
+</div>
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
 ## 📊 GitHub Analytics
 
@@ -118,27 +132,24 @@ const priyanshu = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=scisims12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🌊 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scisims12/scisims12/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/scisims12/scisims12/output/snake.svg" width="100%" alt="Snake animation"/>
+</picture>
+
+<br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=scisims12&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
 ## ✨ A Little More About Me
 
@@ -150,14 +161,16 @@ const priyanshu = {
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" alt="Dev quote"/>
+
 ### 💜 Thanks for visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Keep+creating.+Keep+exploring.;Great+things+start+with+small+ideas.;See+you+in+the+next+commit!" alt="Animated footer message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Keep+creating.+Keep+exploring.;Great+things+start+with+small+ideas.;See+you+in+the+next+commit!" alt="Animated footer message"/>
 
 <br/><br/>
 
 **Made with 💜 and countless cups of ☕**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:09090F&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:09090F&height=120&section=footer" alt="Footer"/>
 
 </div>
