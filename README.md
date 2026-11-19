@@ -118,6 +118,19 @@ OPTIONAL: Spotify "Now Playing" card (Mixify ke liye). YOUR_SPOTIFY_ID apni ID s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%" alt="divider"/>
 
+</div>
+<div align="center">
+<a href="https://github.com/MixifyTeam/Mixify">
+<img src="https://img.shields.io/github/stars/MixifyTeam/Mixify?style=for-the-badge&logo=github&label=Mixify%20Stars&color=7C3AED&labelColor=111827" alt="Mixify Stars"/>
+</a>
+<a href="https://github.com/scisims12/Movify">
+<img src="https://img.shields.io/github/stars/scisims12/Movify?style=for-the-badge&logo=github&label=Movify%20Stars&color=0891b2&labelColor=111827" alt="Movify Stars"/>
+</a>
+<a href="https://github.com/scisims12/watchify">
+<img src="https://img.shields.io/github/stars/scisims12/watchify?style=for-the-badge&logo=github&label=Watchify%20Stars&color=7C3AED&labelColor=111827" alt="Watchify Stars"/>
+</a>
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
