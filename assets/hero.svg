@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">Priyanshu Sharma — Android, Web and Real-Time Experiences</title><desc id="desc">An animated violet and cyan developer identity, with orbiting light trails and a constellation of project names.</desc>
+<defs><radialGradient id="glow"><stop stop-color="#302550"/><stop offset="1" stop-color="#0d1117"/></radialGradient><linearGradient id="neon"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#37304c" stroke-opacity=".35"/></pattern></defs>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,monospace}.orbit{transform-origin:957px 263px;animation:spin 6s linear infinite}.rev{animation-direction:reverse}.pulse{animation:pulse 3s ease-in-out infinite}.float{animation:float 6s ease-in-out infinite}.signal{animation:signal 3s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.25}}@keyframes float{50%{transform:translateY(-7px)}}@keyframes signal{to{stroke-dashoffset:-600}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="560" rx="24" fill="#0d1117"/><rect x="620" width="580" height="510" fill="url(#glow)"/><rect x="1" y="1" width="1198" height="558" rx="24" fill="url(#grid)" stroke="#2d2848"/>
+<path d="M38 79H1162M38 451H1162" stroke="#2d2848"/>
+<circle cx="50" cy="47" r="4" fill="#22d3ee" class="pulse"/><text x="67" y="52" fill="#b9b3cc" font-size="13" letter-spacing="3" class="mono">SCISIMS12 / DEVELOPER</text><text x="1150" y="52" fill="#8b839c" text-anchor="end" font-size="12" class="mono">INDIA · IDEAS → EXPERIENCES</text>
+<text x="48" y="130" fill="#a78bfa" font-size="13" letter-spacing="4" class="mono">ANDROID / WEB / REAL-TIME</text>
+<text x="42" y="234" fill="#f2eefc" font-size="88" letter-spacing="-4" font-weight="800">PRIYANSHU</text>
+<text x="42" y="330" fill="#f2eefc" font-size="102" letter-spacing="-4" font-weight="800">SHARMA<tspan fill="#22d3ee">.</tspan></text>
+<text x="49" y="376" fill="#a78bfa" font-size="23" font-weight="600">Build. Learn. Improve. Repeat.</text><text x="49" y="412" fill="#a8a4b6" font-size="17">Music. Movies. Shared moments. Made with code.</text>
+<g class="float"><circle cx="957" cy="263" r="157" fill="none" stroke="#514170"/><circle cx="957" cy="263" r="127" fill="none" stroke="#403354" stroke-dasharray="2 9"/><circle cx="957" cy="263" r="96" fill="#111222" stroke="#544178"/>
+<g class="orbit"><path d="M957 106a157 157 0 0 1 157 157" fill="none" stroke="#a78bfa" stroke-width="3"/><circle cx="957" cy="106" r="6" fill="#a78bfa"/></g><g class="orbit rev"><circle cx="957" cy="136" r="5" fill="#22d3ee"/></g>
+<path d="M919 237L893 263L919 289M995 237L1021 263L995 289M971 223L943 303" fill="none" stroke="url(#neon)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="800" y="139" width="107" height="32" rx="16" fill="#131323" stroke="#44385f"/><text x="853" y="160" text-anchor="middle" fill="#a78bfa" class="mono" font-size="12">KOTLIN</text>
+<rect x="1059" y="307" width="107" height="32" rx="16" fill="#131323" stroke="#44385f"/><text x="1112" y="328" text-anchor="middle" fill="#22d3ee" class="mono" font-size="12">JAVASCRIPT</text>
+<rect x="847" y="377" width="107" height="32" rx="16" fill="#131323" stroke="#44385f"/><text x="900" y="398" text-anchor="middle" fill="#a78bfa" class="mono" font-size="12">SQL</text></g>
+<g font-size="15" class="mono"><text x="50" y="501" fill="#f2eefc">01 <tspan fill="#a78bfa">MOVIFY</tspan></text><text x="335" y="501" fill="#f2eefc">02 <tspan fill="#22d3ee">MIXIFY</tspan></text><text x="620" y="501" fill="#f2eefc">03 <tspan fill="#a78bfa">WATCHIFY</tspan></text><text x="905" y="501" fill="#f2eefc">04 <tspan fill="#22d3ee">PORTFOLIO</tspan></text></g>
+<path d="M50 532H1150" stroke="#2d2848"/><path class="signal" d="M50 532H1150" stroke="url(#neon)" stroke-width="2" stroke-dasharray="80 520"/>
+</svg>
